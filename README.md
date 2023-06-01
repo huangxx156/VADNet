@@ -9,7 +9,7 @@ This is the code for ["Boosting Variational Inference with Margin Learning for F
 - matplotlib
 
 ## Datasets
-Download the datasets into ``dataset`` folder, like ``./dataset/test/``
+Download the datasets into ``dataset`` folder, like ``./dataset/test/``, or you can download the [test set](https://pan.baidu.com/s/1M-ox9eU9lapxoyWSr-Zmaw) we uploaded (mw8a).
 
 the data directory should be structured like this:
 
